@@ -1,0 +1,16 @@
+
+
+[
+    { "id": "1,1", "typeId": 1, "viewId": 1, "type": "Single Kaaba view", "count": 0 },
+    { "id": "1,2", "typeId": 1, "viewId": 2, "type": "Single City view", "count": 0 },
+    { "id": "1,3", "typeId": 1, "viewId": 3, "type": "Single Side view", "count": 0 },
+    { "id": "1,4", "typeId": 1, "viewId": 4, "type": "Single Full view", "count": 0 },
+    { "id": "2,1", "typeId": 2, "viewId": 1, "type": "Double Kaaba view", "count": 0 },
+    { "id": "2,2", "typeId": 2, "viewId": 2, "type": "Double City view", "count": 0 },
+    { "id": "2,3", "typeId": 2, "viewId": 3, "type": "Double Side view", "count": 0 },
+    { "id": "2,4", "typeId": 2, "viewId": 4, "type": "Double Full view", "count": 0 },
+    { "id": "3,1", "typeId": 3, "viewId": 1, "type": "Triple Full view", "count": 0 },
+    { "id": "3,2", "typeId": 3, "viewId": 2, "type": "Triple Full view", "count": 0 },
+    { "id": "3,3", "typeId": 3, "viewId": 3, "type": "Triple Full view", "count": 0 },
+    { "id": "3,4", "typeId": 3, "viewId": 4, "type": "Triple Full view", "count": 0 }
+]

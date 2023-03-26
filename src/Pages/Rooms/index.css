@@ -1,0 +1,16 @@
+.price-btn {
+  height: 40px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 14px;
+  width: 50px;
+  transition: font-size 0.5s;
+}
+.price-btn:hover,
+.price-btn:active {
+  border: none ;
+  border-color: transparent !important;
+  color: #c99f4a;
+  font-size: 17px;
+  text-align: center;
+}

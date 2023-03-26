@@ -1,0 +1,59 @@
+
+.section{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 20px;
+}
+
+
+.head{
+    color: #c99822;
+}
+
+.add{
+    color: #c99822;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.bank{
+    display: flex;
+    justify-content:space-between;
+}
+
+.bank .add{
+    text-align: right;
+}
+
+.keyPersonSection{
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #ccc;
+}
+
+.meals{
+    margin: 6px;
+}
+
+.newHotel .input{    
+    border: 1px solid #ccc;
+    border-radius:10px;
+    width:70px;
+}
+.checkboxs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.checkboxs > div{
+    margin: 6px;
+}
+
+.save{
+    /* font-size:1.3rem; */
+    padding:8px 25px;
+}
+.red {
+    background-color: red;
+    padding: 10px;
+    border: 1px solid #000;
+}

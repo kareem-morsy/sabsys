@@ -1,0 +1,67 @@
+.night-popup-content {
+  width: 50% !important;
+  padding: 5px !important;
+  max-height: 50% !important;
+  height: 50% !important;
+  background-color: #f6f6f6 !important;
+  border-radius: 3px !important;
+}
+
+.popup-overlay.night-popup-overlay {
+  z-index: 99999 !important;
+}
+
+.popup-actions {
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  align-items: center;
+}
+
+.night-pop-background {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: -3px;
+  left: -23px;
+  z-index: 100;
+}
+
+.night-popup-actions {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.night-popup-actions div {
+  display: flex;
+  color: red !important;
+}
+
+.night-popup {
+  width: 30%;
+  height: fit-content;
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  transform: translate(-50%, 0);
+  background-color: #fff;
+  opacity: 1;
+  padding: 13px;
+  border-radius: 3px;
+  z-index: 1000;
+}
+
+.night-popup label {
+  margin-bottom: 1px;
+  color: #555;
+  margin-top: 10px;
+}
+
+.form-control:focus {
+  border-color: #c99822 !important;
+  box-shadow: 0 0 0 0.25rem rgb(201 152 34 / 25%) !important;
+}

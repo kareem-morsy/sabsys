@@ -1,0 +1,12 @@
+
+
+[
+    {"id":1, "city":"Cairo", "country":"Egypt"},
+    {"id":2, "city":"Aswan", "country":"Egypt"},
+    {"id":3, "city":"Alexandria", "country":"Egypt"},
+    {"id":4, "city":"Mansoura", "country":"Egypt"},
+    {"id":5, "city":"Riadh", "country":"KSA"},
+    {"id":6, "city":"Gadda", "country":"KSA"},
+    {"id":7, "city":"Makka", "country":"KSA"},
+    {"id":8, "city":"Dammam", "country":"KSA"}
+]

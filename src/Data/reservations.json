@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+        "agent": "Maha",
+        "client": "Menna",
+        "guestName": "Eman",
+        "numberofguests": 4,
+        "hotel": "Movembek",
+        "nights": [
+            {
+                "id": 1,
+                "endDate": "Sat Jun 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+                "startDate": "Fri Jun 1 2022 00:00:00 GMT+0200 (Eastern European Standard Time)",
+                "endDateHijri": "1443/7/1",
+                "startDateHijri": "1443/6/4",
+                "key": "selection",
+                "numberOfRooms": 2,
+                "numberOfNights": 3,
+                "roomType": "single",
+                "roomView": "city view",
+                "meal": "Dinner",
+                "total": 340,
+                "newTotal": 400,
+                "vat": 30,
+                "extras": [
+                    {
+                        "id": 1,
+                        "date": "Fri Jun 1 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 200,
+                        "newNightPrice": 250,
+                        "extra": [
+                            {
+                                "id": 2,
+                                "type": "Meal",
+                                "name": "Breakfast",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "date": "Sat Jun 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 200,
+                        "newNightPrice": 250,
+                        "extra": [
+                            {
+                                "id": 2,
+                                "type": "Meal",
+                                "name": "Breakfast",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reservationTotal": 1500,
+        "reservationVat": 400,
+        "status": "tentative",
+        "payment": 0
+    },
+    {
+        "id": 2,
+        "agent": "Eman",
+        "client": "Menna",
+        "guestName": "Maha",
+        "numberofguests": 4,
+        "hotel": "Movembek",
+        "nights": [
+            {
+                "id": 2,
+                "endDate": "Sat Jun 18 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "startDate": "Fri Jun 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "endDateHijri": "1443/6/1",
+                "startDateHijri": "1443/5/4",
+                "key": "selection",
+                "numberOfRooms": 2,
+                "numberOfNights": 3,
+                "roomType": "Double",
+                "roomView": "Kaaba view",
+                "meal": "Full board",
+                "total": 340,
+                "newTotal": 400,
+                "vat": 30,
+                "extras": [
+                    {
+                        "id": 1,
+                        "date": "Fri Jun 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 200,
+                        "newNightPrice": 250,
+                        "extra": [
+                            {
+                                "id": 3,
+                                "type": "Furniture",
+                                "name": "Sofa",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reservationTotal": 1500,
+        "reservationVat": 400,
+        "status": "tentative",
+        "payment": 0
+    },
+    {
+        "id": 3,
+        "agent": "Menna",
+        "client": "Eman",
+        "guestName": "Maha",
+        "numberofguests": 4,
+        "hotel": "Movembek",
+        "nights": [
+            {
+                "id": 3,
+                "endDate": "Sat Sep 18 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "startDate": "Fri Sep 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "endDateHijri": "1443/7/1",
+                "startDateHijri": "1443/6/4",
+                "key": "selection",
+                "numberOfRooms": 2,
+                "numberOfNights": 3,
+                "roomType": "triple",
+                "roomView": "city view",
+                "meal": "Breakfast",
+                "total": 340,
+                "newTotal": 400,
+                "vat": 30,
+                "extras": [
+                    {
+                        "id": 1,
+                        "date": "Fri Sep 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 200,
+                        "newNightPrice": 250,
+                        "extra": [
+                            {
+                                "id": 4,
+                                "type": "Furniture",
+                                "name": "Bed",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reservationTotal": 1500,
+        "reservationVat": 400,
+        "status": "definite",
+        "payment": 0
+    },
+    {
+        "id": 4,
+        "agent": "Ahmed",
+        "client": "Menna",
+        "guestName": "Eman",
+        "numberofguests": 4,
+        "hotel": "Movembek2",
+        "nights": [
+            {
+                "id": 1,
+                "endDate": "Sat Jun 8 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "startDate": "Fri Jun 20 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "endDateHijri": "1443/5/1",
+                "startDateHijri": "1443/3/4",
+                "key": "selection",
+                "numberOfRooms": 2,
+                "numberOfNights": 3,
+                "roomType": "single",
+                "roomView": "kaaba view",
+                "meal": "Half board",
+                "total": 340,
+                "newTotal": 400,
+                "vat": 30,
+                "extras": [
+                    {
+                        "id": 1,
+                        "date": "Fri Jun 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 200,
+                        "newNightPrice": 250,
+                        "extra": [
+                            {
+                                "id": 1,
+                                "type": "Meal",
+                                "name": "Breakfast",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reservationTotal": 1500,
+        "reservationVat": 400,
+        "status": "tentative",
+        "payment": 0
+    },
+    {
+        "id": 5,
+        "agent": "Maha",
+        "client": "Ahmed",
+        "guestName": "Eman",
+        "numberofguests": 4,
+        "hotel": "Movembek",
+        "nights": [
+            {
+                "id": 1,
+                "endDate": "Sat Oct 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "startDate": "Fri Oct 1 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                "endDateHijri": "1443/7/1",
+                "startDateHijri": "1443/6/4",
+                "key": "selection",
+                "numberOfRooms": 2,
+                "numberOfNights": 3,
+                "roomType": "tripple",
+                "roomView": "city view",
+                "meal": "Lunch",
+                "total": 340,
+                "newTotal": 400,
+                "vat": 30,
+                "extras": [
+                    {
+                        "id": 1,
+                        "date": "Fri Oct 1 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 400,
+                        "newNightPrice": 550,
+                        "extra": [
+                            {
+                                "id": 2,
+                                "type": "Meal",
+                                "name": "Breakfast",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "date": "Sat Oct 17 2022 00:00:00 GMT+0200 (Eastern European Standard Time",
+                        "nightPrice": 400,
+                        "newNightPrice": 450,
+                        "extra": [
+                            {
+                                "id": 2,
+                                "type": "Meal",
+                                "name": "Breakfast",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reservationTotal": 2500,
+        "reservationVat": 600,
+        "status": "definite",
+        "payment": 0
+    }
+]

@@ -1,0 +1,15 @@
+/*Reservation Calender input*/
+.rmdp-container {
+  width: 100%;
+}
+.rmdp-input {
+  height: 36px;
+  width: 100%;
+  border: none !important;
+  border-bottom: 1px solid #c99822 !important;
+}
+.rmdp-input:focus {
+  border: 1px solid #c99822 !important;
+}
+
+/*Reservation Repeater */

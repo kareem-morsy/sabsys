@@ -1,0 +1,30 @@
+.action-div
+/* , .price-div */ {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  /* margin-bottom: 9px;
+    margin-top: 8px;
+    padding: 26px 5px 0 5px; */
+  font-size: 15px;
+  font-weight: bold;
+  color: #c99822;
+  height: 65px;
+}
+
+.price-input {
+  outline: none;
+  width: 70px;
+}
+
+.rooms-container {
+  border-radius: 5px;
+  padding: 5px 0;
+  overflow-y: auto;
+  max-height: calc(100% - 280px);
+  /* height: calc(100% - 225px); */
+}
+.Select__value-container--has-value div {
+  width: auto !important;
+}

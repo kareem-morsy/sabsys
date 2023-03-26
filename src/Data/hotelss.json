@@ -1,0 +1,301 @@
+
+
+    [
+        {
+        "id": 1,
+        "brandTitleEn": "Movembek",
+        "brandTitleAr": "",
+        "city": "makka",
+        "phone": 487573,
+        "email": "test0@test.com",
+        "keyPersons": [
+            {
+            "id": 1,
+            "name": "Ahmed",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 2,
+            "name": "Mohamed",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test0@test.com"
+            }
+        ],
+        "rooms": [
+            { "id": "2,3", "typeId": 2, "viewId": 3, "type": "Double Side view", "count": 200 },
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 100
+            },
+            {
+            "id": "3,1",
+            "typeId": 3,
+            "viewId": 1,
+            "type": "Triple Kaaba view",
+            "count": 400
+            }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 3, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 4, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        },
+        {
+        "id": 2,
+        "brandTitleEn": "Movembek2",
+        "brandTitleAr": "",
+        "city": "Gadda",
+        "phone": 487573,
+        "email": "test@test.com",
+        "keyPersons": [
+            {
+            "id": 3,
+            "name": "Ahmed2",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 4,
+            "name": "Mohamed2",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test2@test.com"
+            }
+        ],
+        "rooms": [
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 200
+            },
+            { "id": "2,2", "typeId": 2, "viewId": 2, "type": "Double City view", "count": 100 },
+            { "id": "3,3", "typeId": 3, "viewId": 3, "type": "Triple Side view", "count": 400 }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 4, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 3, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        },
+        {
+        "id": 3,
+        "brandTitleEn": "Movembek",
+        "brandTitleAr": "",
+        "city": "makka",
+        "phone": 487573,
+        "email": "test@test.com",
+        "keyPersons": [
+            {
+            "id": 5,
+            "name": "Ahmed",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 6,
+            "name": "Mohamed",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test2@test.com"
+            }
+        ],
+        "rooms": [
+            { "id": "2,3", "typeId": 2, "viewId": 3, "type": "Double Side view", "count": 200 },
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 100
+            },
+            
+            {
+            "id": "3,1",
+            "typeId": 3,
+            "viewId": 1,
+            "type": "Triple Kaaba view",
+            "count": 400
+            }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 3, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 4, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        },
+        {
+        "id": 4,
+        "brandTitleEn": "Movembek2",
+        "brandTitleAr": "",
+        "city": "Gadda",
+        "phone": 487573,
+        "email": "test@test.com",
+        "keyPersons": [
+            {
+            "id": 7,
+            "name": "Ahmed2",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 8,
+            "name": "Mohamed2",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test2@test.com"
+            }
+        ],
+        "rooms": [
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 200
+            },
+            { "id": "2,2", "typeId": 2, "viewId": 2, "type": "Double City view", "count": 100 },
+            { "id": "3,3", "typeId": 3, "viewId": 3, "type": "Triple Side view", "count": 400 }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 3, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 4, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        },
+        {
+        "id": 5,
+        "brandTitleEn": "Movembek",
+        "brandTitleAr": "",
+        "city": "makka",
+        "phone": 487573,
+        "email": "test@test.com",
+        "keyPersons": [
+            {
+            "id": 9,
+            "name": "Ahmed",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 10,
+            "name": "Mohamed",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test2@test.com"
+            }
+        ],
+        "rooms": [
+            { "id": "2,3", "typeId": 2, "viewId": 3, "type": "Double Side view", "count": 200 },
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 100
+            },
+            
+            {
+            "id": "3,1",
+            "typeId": 3,
+            "viewId": 1,
+            "type": "Triple Kaaba view",
+            "count": 400
+            }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 3, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 4, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        },
+        {
+        "id": 6,
+        "brandTitleEn": "Movembek2",
+        "brandTitleAr": "",
+        "city": "Gadda",
+        "phone": 487573,
+        "email": "test@test.com",
+        "keyPersons": [
+            {
+            "id": 11,
+            "name": "Ahmed2",
+            "title": "manager",
+            "phone": 7467334,
+            "email": "test@test.com"
+            },
+            {
+            "id": 12,
+            "name": "Mohamed2",
+            "title": "manager",
+            "phone": 4377334,
+            "email": "test2@test.com"
+            }
+        ],
+        "rooms": [
+            {
+            "id": "1,1",
+            "typeId": 1,
+            "viewId": 1,
+            "type": "Single Kaaba view",
+            "count": 200
+            },
+            { "id": "2,2", "typeId": 2, "viewId": 2, "type": "Double City view", "count": 100 },
+            { "id": "3,3", "typeId": 3, "viewId": 3, "type": "Triple Side view", "count": 400 }
+        ],
+        "meals": [
+            { "id": 1, "name": "Full board" },
+            { "id": 2, "name": "Half board" },
+            { "id": 3, "name": "Breakfast" }
+        ],
+        "extras": [
+            { "id": 1, "type": "Meal", "extra": "Dinner", "price": 200 },
+            { "id": 2, "type": "Meal", "extra": "Breakfast", "price": 120 },
+            { "id": 3, "type": "Furniture", "extra": "Bed", "price": 300 },
+            { "id": 4, "type": "Furniture", "extra": "Sofa", "price": 500 }
+        ]
+        }
+    ]
+  

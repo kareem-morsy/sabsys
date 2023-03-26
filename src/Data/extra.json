@@ -1,0 +1,8 @@
+
+[
+    {"id":1,"type":"Meals", "extra":"Dinner","price":0},
+    {"id":2,"type":"Meals", "extra":"Breakfast","price":0},
+    {"id":4,"type":"Furniture", "extra":"Bed","price":0},
+    {"id":3,"type":"Furniture", "extra":"Sofa","price":0}
+
+]

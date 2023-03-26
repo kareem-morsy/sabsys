@@ -1,0 +1,8 @@
+
+
+[
+    {"id":1, "title":"Meals", "extras":[{"id":1, "name":"Dinner"},{"id":2, "name":"Breakfast"}]},
+    {"id":2, "title":"Furniture", "extras":[{"id":3, "name":"Sofa"},{"id":4, "name":"Bed"}]},
+    {"id":3, "title":"Services"}
+
+]

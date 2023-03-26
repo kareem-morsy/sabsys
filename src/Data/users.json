@@ -1,0 +1,9 @@
+
+
+[
+    {"id":1, "name":"Ahmed", "phone":73498683, "email":"test@test.com", "department":"Marketing","wallet":1000},
+    {"id":2, "name":"Mohamed", "phone":73498683, "email":"test1@test.com", "department":"Marketing","wallet":300},
+    {"id":3, "name":"Maha", "phone":73498683, "email":"test@test.com", "department":"HR","wallet":5000},
+    {"id":4, "name":"Menna", "phone":73498683, "email":"test4@test.com", "department":"HR","wallet":1000},
+    {"id":5, "name":"Eman", "phone":73498683, "email":"test7@test.com", "department":"Accounting","wallet":900}
+]

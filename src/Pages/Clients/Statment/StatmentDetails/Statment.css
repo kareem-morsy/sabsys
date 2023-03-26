@@ -1,0 +1,123 @@
+/*Helpers*/
+.center-text{
+    margin: 15px auto;
+}
+
+
+.containerDiv{
+    width: 90%;
+    margin: 55px auto !important;
+}
+
+.statementDet{
+    background-color: #fff !important;
+    margin: 75px auto 35px auto !important;
+    border-radius: 8px;
+}
+
+.UnitRow{
+    width: 98%;
+    padding: 15px;
+    margin: 25px auto;
+    display: flex;
+}
+
+.unitCol{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.unitCol h2{
+    font-weight: bold;
+    font-size: 23px;
+    color: #000;
+}
+
+.unitCol h3{
+    font-weight: bold;
+    font-size: 21px;
+    color: #000;
+}
+
+.unitDet{
+    width: 32%;
+    margin: 10px 1%;
+}
+
+.headFooter{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.unitDate{
+    display: flex;
+    align-items: center;
+    direction: rtl;
+    width: 35%;
+    justify-content: space-between;
+}
+
+.unitAmount{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+}
+
+.priceTitle , .priceValue{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.unitName , .unitTotPrice{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.payMethod , .beingFor , .unitSignture{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.methodunit{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    
+}
+
+
+
+
+
+
+
+@page {
+    size: A4;
+}
+
+
+@media print {
+    .statementDet h1 , .fab-item.undefined.fab-rotate{
+        display : none;
+    }
+    .pro-sidebar{
+        display: none;
+    }
+
+    .nav-center{
+        display: none;
+    }
+}
+
+
+
+
+

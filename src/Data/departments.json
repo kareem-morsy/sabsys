@@ -1,0 +1,15 @@
+
+ [
+    {"id":1, "name":"Marketing", "users":[
+        {"id":1, "name":"Ahmed", "phone":73498683, "email":"test@test.com"},
+        {"id":2, "name":"Mohamed", "phone":73498683, "email":"test1@test.com"}
+        ]},
+    {"id":2, "name":"HR", "users":[
+        {"id":3, "name":"Maha", "phone":73498683, "email":"test@test.com"},
+        {"id":4, "name":"Menna", "phone":73498683, "email":"test4@test.com"}
+    ]},
+    {"id":3, "name":"Accounting", "users":[ 
+        {"id":5, "name":"Eman", "phone":73498683, "email":"test7@test.com"}
+    ]}
+
+]

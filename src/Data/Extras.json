@@ -1,0 +1,18 @@
+[
+  {"id": 0, "title": "Meals", "isActive": 0},
+  {"id": 1, "type": "Meals", "title": "Meal1", "price": 10},
+  {"id": 2, "type": "Meals", "title": "Meal2", "price": 20},
+  {"id": 3, "type": "Meals", "title": "Meal3", "price": 25},
+  {"id": 4, "title": "Furniture ", "isActive": 0},
+  {"id": 5, "type": "Furniture", "title": "furniture1", "price": 100},
+  {"id": 6, "type": "Furniture", "title": "furniture2", "price": 130},
+  {"id": 7, "type": "Furniture", "title": "furniture3", "price": 150},
+  {"id": 8, "title": "Meals", "isActive": 0},
+  {"id": 9, "type": "Meals", "title": "Meal4", "price": 10},
+  {"id": 10, "type": "Meals",  "title": "Meal5", "price": 20},
+  {"id": 11, "type": "Meals",  "title": "Meal6", "price": 25},
+  {"id": 12, "title": "Furniture ", "isActive": 0},
+  {"id": 13, "type": "Furniture", "title": "furniture4", "price": 100},
+  {"id": 14, "type": "Furniture", "title": "furniture5", "price": 130},
+  {"id": 15, "type": "Furniture", "title": "furniture6", "price": 150}
+]

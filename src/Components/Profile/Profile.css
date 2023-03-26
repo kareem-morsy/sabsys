@@ -1,0 +1,48 @@
+
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.info label{
+    margin-right: 10px;
+    font-size: 1.0rem !important;
+}
+
+.payment{
+    height:2.5rem !important;
+}
+
+/* #profile p{
+    margin-top:3px
+} */
+
+.info button.payment {
+    font-size: 1rem;
+}
+.table h3, .doc{
+    color: #c99822;
+    margin-left:1rem ;
+}
+.doc{
+    font-size: 1.1rem;
+}
+
+.docIcon{
+    font-size:100px;
+    color:#bbb;
+    cursor: pointer;
+}
+
+.attachments h3{
+    color: #c99822
+}
+
+/* .payment th{
+    color: #c99822 !important;
+} */
+.info .price{
+    color: #c99822 !important;
+    text-decoration: none;
+}

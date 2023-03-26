@@ -1,0 +1,10 @@
+
+.Toastify__toast-container--top-right{
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    
+}
+.Toastify__progress-bar-theme--light {
+    background: #c99822 !important;
+}

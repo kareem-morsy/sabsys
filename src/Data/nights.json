@@ -1,0 +1,33 @@
+
+[
+    {
+        "date": "2022-06-19",
+        "cost_price": 5,
+        "selling_price": 50,
+        "hijri_date": "1443-11-17"
+    },
+    {
+        "date": "2022-06-20",
+        "cost_price": 400,
+        "selling_price": 4000,
+        "hijri_date": "1443-11-18"
+    },
+    {
+        "date": "2022-06-21",
+        "cost_price": 400,
+        "selling_price": 4000,
+        "hijri_date": "1443-11-19"
+    },
+    {
+        "date": "2022-06-22",
+        "cost_price": 400,
+        "selling_price": 4000,
+        "hijri_date": "1443-11-20"
+    },
+    {
+        "date": "2022-06-27",
+        "cost_price": 120,
+        "selling_price": 1200,
+        "hijri_date": "1443-11-21"
+    }
+]

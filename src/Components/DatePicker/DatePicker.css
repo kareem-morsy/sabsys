@@ -1,0 +1,44 @@
+.date-lable {
+  color: black;
+  opacity: 0.7;
+  margin: 0px 0px 5px 2px;
+  font-weight: 500;
+}
+
+.e-input-group.e-error, .e-input-group.e-control-wrapper.e-error, .e-input-group.e-error:not(.e-float-icon-left), .e-input-group.e-control-wrapper.e-error:not(.e-float-icon-left) {
+  border-bottom-color: #c99822 !important;
+}
+
+
+.e-input-group:not(.e-float-icon-left).e-error:not(.e-float-input)::before, .e-input-group:not(.e-float-icon-left).e-error:not(.e-float-input)::after, .e-input-group.e-float-icon-left.e-error:not(.e-float-input) .e-input-in-wrap::before,.e-input-group.e-float-icon-left.e-error:not(.e-float-input).e-input-in-wrap::after,.e-input-group.e-control-wrapper:not(.e-float-icon-left).e-error:not(.e-float-input)::before,.e-input-group.e-control-wrapper:not(.e-float-icon-left).e-error:not(.e-float-input)::after,.e-input-group.e-control-wrapper.e-float-icon-left.e-error:not(.e-float-input)  .e-input-in-wrap::before,.e-input-group.e-control-wrapper.e-float-icon-left.e-error:not(.e-float-input).e-input-in-wrap::after {
+  background: #c99822 !important;
+}
+
+.e-input-group:not(.e-float-icon-left):not(.e-float-input)::before, .e-input-group:not(.e-float-icon-left):not(.e-float-input)::after, .e-input-group.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::before, .e-input-group.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::after, .e-input-group.e-control-wrapper:not(.e-float-icon-left):not(.e-float-input)::before, .e-input-group.e-control-wrapper:not(.e-float-icon-left):not(.e-float-input)::after, .e-input-group.e-control-wrapper.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::before, .e-input-group.e-control-wrapper.e-float-icon-left:not(.e-float-input) .e-input-in-wrap::after {
+  background: #c99822 !important;
+}
+
+.e-date-wrapper span.e-input-group-icon.e-date-icon.e-icons.e-active {
+  color: #c99822 !important;
+}
+
+.e-input-group.e-error .e-input-group-icon, .e-input-group.e-control-wrapper.e-error .e-input-group-icon {
+  color: #a37e26 !important;
+}
+
+.e-btn.e-flat.e-primary, .e-css.e-btn.e-flat.e-primary {
+  color: #c99822 !important;
+}
+
+.e-calendar .e-content td.e-focused-date.e-today span.e-day, .e-bigger.e-small .e-calendar .e-content td.e-focused-date.e-today span.e-day {
+  border: 1px solid #c99822 !important;
+  color: #c99822 !important;
+}
+
+.e-control.e-calendar.e-lib.e-keyboard {
+  position: absolute;
+  z-index: 10;
+  top: 33px;
+}
+
+

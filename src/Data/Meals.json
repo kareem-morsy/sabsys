@@ -1,0 +1,7 @@
+[
+    {"id": 0, "name": "full board","code" : "fb"},
+    {"id": 1, "name": "half board","code" : "fb"},
+    {"id": 2, "name": "breakfast","code" : "fb"},
+    {"id": 3, "name": "lunch","code" : "fb"},
+    {"id": 4, "name": "dinner","code" : "fb"}
+]

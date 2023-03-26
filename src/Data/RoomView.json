@@ -1,0 +1,8 @@
+
+
+[
+    {"id":1, "view":"Kaaba view", "count":100},
+    {"id":2, "view":"City view", "count":200}, 
+    {"id":3, "view":"Side view", "count":600}, 
+    {"id":4, "view":"Full view", "count":800}
+]

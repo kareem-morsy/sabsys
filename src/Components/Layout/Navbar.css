@@ -1,0 +1,154 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  height: auto;
+  transition: all 0.5s ease-in-out;
+}
+.link {
+  color: #c99822;
+  font-size: 18px;
+  padding: 16px 12px;
+}
+a:focus{
+  color:var(--focus-color) !important;
+ }
+ a:hover{
+  color:var(--hover-color) !important;
+ }
+/* .link:hover {
+  color: #9b741a !important;
+
+} */
+.nav-center {
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(133, 133, 133, 0.3);
+  padding: 4px 14px !important;
+  position: fixed;
+  width: 85%;
+  top: 0;
+  right: 0;
+  z-index: 999;
+  transition: all 0.3s ease-in-out;
+}
+.mainCollapsed .nav-center {
+  width: 95%;
+}
+
+.profileIcon {
+  max-height: 35px;
+  border-radius: 50%;
+}
+
+.dropdown .dropbtn {
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  transition: all 0.3s ease-in-out;
+}
+.content {
+  display: none;
+  position: absolute;
+  min-width: 280px;
+  background-color: #fff;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 10px;
+}
+
+.filter {
+  top: 60px;
+  left: 170px;
+  padding: 20px;
+  width: 40%;
+}
+.dropdown-content {
+  top: 60px;
+  right: -10px;
+}
+
+.notificationContent {
+  top: 60px;
+  /* right: 100px; */
+}
+
+.dropdown-content a,
+.notificationContent a,
+.filter a {
+  float: none;
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  cursor: pointer;
+}
+
+.see_all{
+  color: #c99822 !important;
+  padding:8px !important;
+  text-align: center !important;
+}
+hr{
+  margin: 0 !important;
+}
+.dropdown-content a:hover,
+.notificationContent a:hover {
+  color: #000;
+  background-color: #fff;
+}
+
+.dropdown:active {
+  color: #fff;
+}
+.active {
+  display: block;
+}
+
+.btn-outline-gold {
+  border: 1px solid #c99822;
+  color: #c99822;
+}
+.btn-outline-gold:hover {
+  color: #fff;
+  background-color: #c99822;
+}
+.search {
+  width: 50%;
+  margin-right: 10rem;
+}
+
+.notifyIcon {
+  font-size: 20px;
+  color: #c99822;
+  cursor: pointer;
+  position: relative;
+}
+
+.notifyCount{
+   font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  content: "2";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(57, 56, 56, 0.79);
+  color: #fff;
+  top:0;
+  left: 50%;
+  border-radius: 50%;
+  z-index: 9999;
+  font-size: 14px;
+}
+
+
+.dd{
+  display: none;
+}

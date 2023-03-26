@@ -1,0 +1,21 @@
+.info span {
+  text-align: left;
+  margin-bottom: revert;
+  /* font-size: 13px; */
+}
+
+.modal-title {
+  color: #c99822;
+  font-size: 1rem;
+}
+
+.keyButton {
+  border: 1px solid #000;
+}
+
+.info-box {
+  /* border: 2px dashed #ccc; */
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 3px 3px rgba(133, 133, 133, 0.1);
+}

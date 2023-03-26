@@ -1,0 +1,97 @@
+.modal-backdrop {
+  z-index: 99999 !important;
+}
+
+.modal {
+  z-index: 99999 !important;
+}
+
+.guests-popup {
+  width: 30%;
+  max-height: 370px;
+  position: absolute;
+  left: 50%;
+  top: 23%;
+  padding: 5px;
+  transform: translate(-50%, 0);
+  background-color: #fff;
+  opacity: 1;
+  border-radius: 3px;
+  z-index: 1000;
+}
+.create {
+  width: 25% !important;
+}
+
+.guests-popup-overlay {
+  z-index: 99999 !important;
+}
+
+.guests-popup-content {
+  width: 35% !important;
+  height: 35% !important;
+}
+
+.pop-background {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: -16px;
+  left: 0;
+  z-index: 100;
+}
+
+.guest-container {
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.guests-popup svg {
+  width: 100%;
+  font-size: 37px;
+  color: #d49e1f;
+}
+
+.guests-popup button {
+  width: 100px;
+}
+
+.title {
+  padding: 5px 0;
+  color: #555555;
+  font-weight: 500;
+}
+
+.name-input .code-input {
+  padding-right: 0 !important;
+}
+.delete-icon {
+  margin-top: 30px;
+}
+
+.delete-icon svg {
+  font-size: 20px;
+  color: #c54545;
+}
+
+.hide-guests-popup {
+  visibility: hidden;
+}
+
+.show-guests-popup {
+  visibility: visible;
+}
+
+.validate {
+  border: 1px solid #c54545 !important;
+}
+
+.validate-span {
+  color: #c54545;
+}
+
+.close-div {
+  float: right;
+  margin: 5px 0;
+}

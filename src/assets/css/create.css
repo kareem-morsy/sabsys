@@ -1,0 +1,13 @@
+label{
+    font-size: 1rem !important;
+    font-weight: 600;
+}
+.form{
+    /* height:50vh; */
+    align-items: center;
+}
+.alert{
+    position: absolute;
+    top: 75px;
+    right: 30px;
+}

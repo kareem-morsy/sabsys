@@ -1,0 +1,91 @@
+.price-popup {
+  width: 32%;
+  height: fit-content;
+  max-height: 350px;
+  position: absolute;
+  left: 50%;
+  top: 23%;
+  transform: translate(-50%, 0);
+  background-color: #fff;
+  opacity: 1;
+  border-radius: 3px;
+  z-index: 1000;
+}
+
+.price-popup-overlay {
+  z-index: 99999 !important;
+}
+
+.price-popup-content {
+  width: 35% !important;
+  height: 35% !important;
+}
+
+.pop-background {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: -16px;
+  left: 0;
+  z-index: 100;
+}
+
+.price-popup svg {
+  width: 100%;
+  font-size: 37px;
+  color: #d49e1f;
+}
+
+.price-popup button {
+  width: 100px;
+}
+
+.title {
+  padding: 5px 0 5px 12px;
+  color: #555555;
+  font-weight: 500;
+}
+
+.total {
+  color: #555555;
+  font-weight: 500;
+}
+
+.price-breakdown {
+  padding: 10px 0;
+  border-top: 1px solid #5e5d5e30;
+  border-bottom: 1px solid #5e5d5e30;
+}
+
+.breakdown {
+  display: flex;
+  padding: 10px 0px;
+  margin: 0px;
+  color: #555555;
+  border-radius: 0;
+  flex-direction: column;
+  border-bottom: 1px solid #5e5d5e30;
+}
+
+.charges-details {
+  color: #555;
+}
+
+.exclude-charges p {
+  padding-left: 10px;
+  color: #585858;
+  font-weight: 500;
+  margin: 5px 0px !important;
+}
+
+.close-div {
+  float: right;
+  margin: 0px 3px 10px 0px;
+}
+/* .price-popup p {
+  text-align: left;
+  padding: 10px;
+  color: #5e5d5e;
+  border-bottom: 1px solid #5e5d5e;
+} */

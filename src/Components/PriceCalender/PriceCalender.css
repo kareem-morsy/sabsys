@@ -1,0 +1,118 @@
+.nightPrice-popup-content {
+  width: 98% !important;
+  padding: 5px !important;
+  max-height: 99% !important;
+  height: 99% !important;
+  background-color: #f6f6f6 !important;
+  border-radius: 3px !important;
+}
+.fc-media-screen {
+  height: 500px !important;
+}
+.popup-overlay.nightPrice-popup-overlay {
+  z-index: 99999 !important;
+}
+
+.popup-actions {
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  align-items: center;
+}
+
+/* disable old price */
+.fc-daygrid-event-harness .cost,
+.fc-h-event,
+.fc-daygrid-event-harness .cost:hover {
+  border: 1px solid #555;
+  background-color: #555;
+}
+
+.fc-daygrid-event-harness .undisabled,
+.fc-h-event {
+  background-color: #c9983a;
+  border: 1px solid #c9983a;
+}
+
+/* change calender color theme */
+/* calender header */
+.fc-col-header-cell-cushion {
+  color: #c9983a;
+}
+
+/* days numbers */
+.fc-daygrid-day-number {
+  color: #555;
+}
+
+.fc-daygrid-day-number:hover {
+  color: #a37e26;
+}
+
+/* current day */
+.fc .fc-daygrid-day.fc-day-today {
+  background-color: rgba(85, 85, 85, 0.1);
+}
+
+/* selected days */
+.fc .fc-highlight {
+  /* background: var(--fc-highlight-color, rgba(146, 148, 148, 0.3)); */
+  background: rgb(219 213 213 / 30%);
+}
+
+/* toolbar  */
+.fc-toolbar-chunk {
+  display: flex;
+  align-items: center;
+}
+
+.fc-toolbar-title {
+  color: #000;
+  opacity: 0.6;
+  font-size: 18px !important;
+}
+
+.fc-button-primary {
+  color: #c9983a !important;
+  background-color: transparent !important;
+  border-color: transparent !important;
+  font-size: 15px !important;
+}
+
+/* today btn: fc-today-button fc-button fc-button-primary
+month btn: fc-dayGridMonth-button fc-button fc-button-primary fc-button-active */
+.fc .fc-toolbar.fc-header-toolbar {
+  margin-bottom: 0px !important;
+}
+
+.fc .fc-list-event-dot {
+  border: calc(var(--fc-list-event-dot-width, 10px) / 2) solid #a37e26;
+}
+
+.fc-list-day-text {
+  color: #555;
+}
+
+.fc-list-day-side-text {
+  color: #a37e26;
+}
+
+button:focus {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+td.fc-list-event-time {
+  display: none !important;
+}
+
+.fc-daygrid-day-top {
+  justify-content: space-between;
+}
+
+.fc-daygrid-day-hijri-number {
+  position: relative;
+  z-index: 4;
+  padding: 4px;
+  color: #c9983a;
+}
